@@ -1,0 +1,12 @@
+{
+    "8814575770": {
+        "placeId": 987654321,
+        "owner": "Johanes",
+        "status": true
+    },
+    "987654321": {
+        "placeId": 123456789,
+        "User": "Budi",
+        "status": true
+    }
+}

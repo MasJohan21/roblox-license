@@ -6,7 +6,12 @@
     },
     "9227818278": {
         "placeId": 86476243474575,
-        "User": "Aloyy",
+        "User1": "Aloyy",
+        "status": true
+     },
+    "8799613331": {
+        "placeId": 138851405555378,
+        "User2": "Nvalll",
         "status": true
     }
 }
